@@ -1,0 +1,16 @@
+.nav__logo-link,
+.footer-contacts__logo-link {
+  color: var(--accent-color);
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+}
+
+.nav__logo-link--inverse {
+  color: var(--primary-text-color);
+}
+
+.footer-contacts__logo-link-inverse {
+  color: var(--main-text-color);
+}
