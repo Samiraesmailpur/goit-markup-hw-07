@@ -11,7 +11,7 @@
         "../sass/components/_footer.scss",
         "../sass/components/_portfolio-btn.scss",
         "../sass/components/_portfolio-list.scss",
-        "../sass/components/svg.scss"
+        "../sass/components/_svg.scss"
     ],
     "names": [],
     "file": "portfolio.min.css"
